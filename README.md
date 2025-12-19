@@ -7,3 +7,4 @@ Packages and other system configurations are managed mostly using `darch` - my t
 **Structure:**
  - `usr`: `~/.config/`
  - `sys`: `/etc`
+ - `home`: all files in `/home/user` that aren't in `.config`
